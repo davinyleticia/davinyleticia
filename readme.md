@@ -3,7 +3,7 @@
 ☆°･:*:･｡,★,｡･:*:･°☆ </h1>
 
 ### Hello! :wave:
-My name is Daviny Vidal, a woman in the world of exact science, I am 30 years old and I live in São Paulo.
+My name is Daviny Letícia, a woman in the world of exact science, I am 30 years old and I live in São Paulo
 
 And some curiosities about me :v:
 
