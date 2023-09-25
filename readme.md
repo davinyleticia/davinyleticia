@@ -2,7 +2,7 @@
 <p align="center">(◠‿◠) <BR>
 ☆°･:*:･｡,★,｡･:*:･°☆ </p>
 
-- Hello! :wave:
+Hello! :wave:
   
 My name is Daviny Letícia, a woman in the world of exact science, I am 30 years old and I live in São Paulo
 
