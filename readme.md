@@ -4,7 +4,7 @@
 
 Hello! :wave:
   
-My name is Daviny Letícia Vidal, a woman in the world of exact science, I am 30 years old and I live in São Paulo
+My name is **Daviny Letícia Vidal**, a woman in the world of exact science, I am 31 years old and I live in São Paulo
 
 And some curiosities about me :v:
 
