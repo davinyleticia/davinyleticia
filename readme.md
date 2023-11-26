@@ -12,6 +12,9 @@ And some curiosities about me :v:
 - I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
 ---
 
+E-mail: daviny@vidal.dev.br
+website: https://daviny.dev
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
   
