@@ -7,13 +7,17 @@
 
 ### ✨You can call me Le!✨
 
-  
-My name is **Daviny Letícia Vidal**, a woman in the world of exact science, I am 31 years old and I live in São Paulo
+<div>
+    
+    📌 I'm thirty-one years old, I live in Brazil 
+        and I'm a beginner front-end developer!
+ </div>       
+  curiosities about me :v:
 
-And some curiosities about me :v:
+    - I like to watch series in my spare time
+    - I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
 
-- I like to watch series in my spare time
-- I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
+
 
 E-mail: daviny@vidal.dev.br
 
