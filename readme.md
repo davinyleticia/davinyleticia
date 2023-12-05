@@ -1,6 +1,7 @@
 
-<H2 align="center">(◠‿◠) <BR>
-☆°･:*:･｡,★,｡･:*:･°☆ </h2>
+<div align="center">
+  <img src="banner.jpg">
+</div>
 
 Hello! :wave:
   
