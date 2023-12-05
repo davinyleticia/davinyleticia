@@ -11,12 +11,12 @@
     
     📌 I'm thirty-one years old, I live in Brazil 
         and I'm a beginner front-end developer!
- </div>       
-  curiosities about me :v:
+ </div>   
+ 
+curiosities about me :v:
 
-    - I like to watch series in my spare time
-    - I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
-
+- I like to watch series in my spare time
+- I love having a conversation about quantum physics, astrophysics, electronics, but every now and then I don't need to talk about bbb, series and novels.
 
 
 E-mail: daviny@vidal.dev.br
