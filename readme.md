@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="banner.jpg">
+  <img src="banner.gif">
 </div>
 
 Hello! :wave:
