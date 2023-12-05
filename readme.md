@@ -9,8 +9,7 @@
 
 <div>
     
-    📌 I'm thirty-one years old, I live in Brazil 
-        and I'm a beginner front-end developer!
+📌 I'm thirty-one years old, I live in Brazil and I'm a beginner front-end developer!
  </div>   
  
 curiosities about me :v:
