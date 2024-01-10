@@ -20,7 +20,7 @@ curiosities about me :v:
 
 E-mail: daviny@vidal.dev.br
 
-Website: www.daviny.dev
+Website: www.davinyleticia.bio/
 
 
   
