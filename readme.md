@@ -18,7 +18,7 @@ curiosities about me :v:
 - I love having a conversation about quantum physics, astrophysics, electronics, but every now and then we need to talk about bbb, series and soap operas.
 
 
-E-mail: daviny@vidal.dev.br
+E-mail: daviny.leticia@vidal.dev.br
 
 Website: www.davinyleticia.bio / www.daviny.dev
 
