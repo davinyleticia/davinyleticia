@@ -1,28 +1,31 @@
-
 <div align="center">
   <img src="banner.gif" width="100%" height="400px">
 </div>
 
 ##
 
-### ✨You can call me Le!✨
+### ✨ Hi, I'm Le! / ✨ Olá, sou a Le! ✨
 
 <div>
     
-📌 I'm thirty-one years old, I live in Brazil and I'm a beginner front-end developer!
- </div>   
- 
-curiosities about me :v:
+📌 I'm thirty-one years old, living in Brazil, and passionate about front-end development!
+</div>   
 
-- I like to watch series in my spare time
-- I love having a conversation about quantum physics, astrophysics, electronics, but every now and then we need to talk about bbb, series and soap operas.
+### About Me:
 
+- I enjoy binge-watching series in my spare time.
+- I have a keen interest in discussing topics like quantum physics, astrophysics, and electronics, but don't be surprised if we also chat about reality TV shows, series, and soap operas.
 
-E-mail comercial e profissonal: daviny.leticia@vidal.dev.br
+### Sobre Mim:
+- Gosto de maratonar séries nas horas vagas.
+- Tenho interesse em discutir tópicos como física quântica, astrofísica e eletrônica, mas não se surpreenda se também conversarmos sobre programas de TV, séries e novelas.
 
-Portfólio de Desenvolvimento: www.daviny.dev
+### Contact Information / Informações de Contato:
 
-Meu site profisonal de consultoria: www.davinyleticia.bio
+- Email for business inquiries / E-mail para consultas comerciais: daviny.leticia@vidal.dev.br
+- Development Portfolio / Portfólio de Desenvolvimento: [www.daviny.dev](www.daviny.dev)
+- Professional consulting website / Site profissional de consultoria: [www.davinyleticia.bio](www.davinyleticia.bio)
+
 
 
 
