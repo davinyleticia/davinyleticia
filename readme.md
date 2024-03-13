@@ -20,7 +20,10 @@ curiosities about me :v:
 
 E-mail: daviny.leticia@vidal.dev.br
 
-Website: www.davinyleticia.bio / www.daviny.dev
+Portfólio de Desenvolvimento: www.daviny.dev
+
+Meu site profisonal de consultoria: www.davinyleticia.bio
+
 
 
   
