@@ -20,6 +20,16 @@
 - Gosto de maratonar séries nas horas vagas.
 - Tenho interesse em discutir tópicos como física quântica, astrofísica e eletrônica, mas não se surpreenda se também conversarmos sobre programas de TV, séries e novelas.
 
+### Courses
+
+📚 I am a technologist in systems analysis and development (Centro Braz Cubas).
+📚📚 I am studying technical commerce (ETEC).
+
+### Cursos
+
+📚 Sou tecnóloga em análise e desenvolvimento de sistemas (Centro Braz Cubas).
+📚📚 Estou estudando técnico em comércio (ETEC).
+
 ### Contact Information / Informações de Contato:
 
 - Email for business inquiries / E-mail para consultas comerciais: daviny.leticia@vidal.dev.br
