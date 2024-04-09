@@ -23,11 +23,13 @@
 ### Courses
 
 📚 I am a technologist in systems analysis and development (Centro Braz Cubas).
+
 📚📚 I am studying technical commerce (ETEC).
 
 ### Cursos
 
 📚 Sou tecnóloga em análise e desenvolvimento de sistemas (Centro Braz Cubas).
+
 📚📚 Estou estudando técnico em comércio (ETEC).
 
 ### Contact Information / Informações de Contato:
