@@ -52,7 +52,6 @@
 <a href="https://www.w3.org/css3/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*f9t1eeISadHhjK5QYejJBg.png" alt="bash" width="37" height="37"/> </a>
 
 
-
 <h3 align="left">Data Base:</h3>
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
@@ -71,6 +70,10 @@
 <a href="https://www.kernel.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
+
+
+<h3 align="left"> Setup: </h3>
+<a href="https://davinyleticia.bio/meu-setup/">https://davinyleticia.bio/meu-setup/</a>
 
 
 <picture>
