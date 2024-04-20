@@ -41,7 +41,8 @@
 
 
 
-
+<h3 align="left"> Setup: </h3>
+<a href="https://davinyleticia.bio/meu-setup/">https://davinyleticia.bio/meu-setup/</a>
   
 <h3 align="left">Languages:</h3>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -70,10 +71,6 @@
 <a href="https://www.kernel.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-
-
-<h3 align="left"> Setup: </h3>
-<a href="https://davinyleticia.bio/meu-setup/">https://davinyleticia.bio/meu-setup/</a>
 
 
 <picture>
