@@ -35,7 +35,6 @@
 ### Contact Information / Informações de Contato:
 
 - Email for business inquiries / E-mail para consultas comerciais: daviny.leticia@vidal.dev.br
-- Development Portfolio / Portfólio de Desenvolvimento: [www.daviny.dev](https://www.daviny.dev)
 - Professional consulting website / Site profissional de consultoria: [www.davinyleticia.bio](https://www.davinyleticia.bio)
 - Podcast Tipsbook® : [www.tipsbook.com.br](https://www.tipsbook.com.br)
 
