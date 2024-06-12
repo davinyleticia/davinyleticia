@@ -8,7 +8,7 @@
 
 <div>
     
-📌 I'm thirty-one years old, living in Brazil, and passionate about front-end development!
+📌 I am a 31-year-old Brazilian woman, passionate about data analysis and business in the digital commerce sector!
 </div>   
 
 ### About Me:
