@@ -4,7 +4,7 @@
 
 ##
 
-### ✨ Hi, I'm Le! / ✨ Olá, sou a Le! ✨
+### ✨ Hi, I'm Le! ✨
 
 <div>
     
@@ -16,15 +16,16 @@
 - I enjoy binge-watching series in my spare time.
 - I have a keen interest in discussing topics like quantum physics, astrophysics, and electronics, but don't be surprised if we also chat about reality TV shows, series, and soap operas.
 
-### Sobre Mim:
-- Gosto de maratonar séries nas horas vagas.
-- Tenho interesse em discutir tópicos como física quântica, astrofísica e eletrônica, mas não se surpreenda se também conversarmos sobre programas de TV, séries e novelas.
-
 ### Courses
 
 📚 I am a technologist in systems analysis and development (Centro Braz Cubas).
 
 📚📚 I am studying technical commerce (ETEC).
+
+
+### Sobre Mim:
+- Gosto de maratonar séries nas horas vagas.
+- Tenho interesse em discutir tópicos como física quântica, astrofísica e eletrônica, mas não se surpreenda se também conversarmos sobre programas de TV, séries e novelas.
 
 ### Cursos
 
