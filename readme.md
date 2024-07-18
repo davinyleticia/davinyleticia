@@ -33,7 +33,9 @@
 - Professional website and portfolio / Site profissional e portfólio: [www.davinyleticia.bio](https://www.davinyleticia.bio)
 - Email for business inquiries / E-mail para consultas comerciais: hello@davinyleticia.bio
 
-
+<div align="center">
+  <img src="banner.gif" width="100%" height="400px">
+</div>
 
 <h3 align="left"> Setup: </h3>
 <a href="https://davinyleticia.bio/meu-setup/">https://davinyleticia.bio/meu-setup/</a>
@@ -66,10 +68,6 @@
 <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 
-
-<div align="center">
-  <img src="banner.gif" width="100%" height="400px">
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davinyleticia/davinyleticia/output/github-contribution-grid-snake-dark.svg">
