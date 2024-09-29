@@ -12,9 +12,11 @@
 
 ### Courses
 
-📚 I am a technologist in systems analysis and development (Centro Braz Cubas).
+📚📚📚 Postgraduate in Web Application Development (FAAL)
 
-📚📚 I am studying technical commerce (ETEC).
+📚📚 I am a technologist in systems analysis and development (Centro Braz Cubas).
+
+📚 I am studying technical commerce (ETEC).
 
 
 ### Sobre Mim:
@@ -23,9 +25,11 @@
 
 ### Cursos
 
-📚 Sou tecnóloga em análise e desenvolvimento de sistemas (Centro Braz Cubas).
+📚📚📚 Pós Graduação em Desenvolvimento de Aplicações Web ( FAAL )
 
-📚📚 Estou estudando técnico em comércio (ETEC).
+📚📚 Tecnóloga em análise e desenvolvimento de sistemas (Centro Braz Cubas).
+
+📚 Estou estudando técnico em comércio (ETEC).
 
 ### Contact Information / Informações de Contato:
 
