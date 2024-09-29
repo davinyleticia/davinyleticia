@@ -14,7 +14,7 @@
 
 📚📚📚 Postgraduate in Web Application Development (FAAL)
 
-📚📚 I am a technologist in systems analysis and development (Centro Braz Cubas).
+📚📚 Technologist in systems analysis and development (Centro Braz Cubas).
 
 📚 I am studying technical commerce (ETEC).
 
