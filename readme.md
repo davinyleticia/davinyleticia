@@ -35,7 +35,7 @@
 
 - Podcast Tipsbook® : [www.tipsbook.com.br](https://www.tipsbook.com.br)
 - Professional website and portfolio / Site profissional e portfólio: [https://davinyleticia.viewpage.ink/](https://davinyleticia.viewpage.ink/)
-- Email for business inquiries / E-mail para consultas comerciais: davinyleticia@viewpage.ink
+- Email for business inquiries / E-mail para consultas comerciais: hello@davinyleticia.viewpage.ink
 
 <div align="center">
   <img src="banner.gif" width="100%" height="400px">
