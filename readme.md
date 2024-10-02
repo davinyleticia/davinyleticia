@@ -34,7 +34,8 @@
 ### Contact Information / Informações de Contato:
 
 - Podcast Tipsbook® : [www.tipsbook.com.br](https://www.tipsbook.com.br)
-- Professional website and portfolio / Site profissional e portfólio: [https://davinyleticia.viewpage.ink/](https://davinyleticia.viewpage.ink/)
+- Blog / Conteúdos: [https://davinyleticia.viewpage.ink/](https://davinyleticia.viewpage.ink/)
+- Site de Projetos; https://vidal.dev.br
 - Email for business inquiries / E-mail para consultas comerciais: hello@vidal.dev.br
 
 <div align="center">
