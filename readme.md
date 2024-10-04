@@ -34,9 +34,9 @@
 ### Contact Information / Informações de Contato:
 
 - Podcast Tipsbook® : [www.tipsbook.com.br](https://www.tipsbook.com.br)
-- Blog / Conteúdos: [https://davinyleticia.viewpage.ink/](https://davinyleticia.viewpage.ink/)
+- Blog / Conteúdos: https://vidal.press
 - Site de Projetos; https://vidal.dev.br
-- Email for business inquiries / E-mail para consultas comerciais: hello@vidal.dev.br
+- Email for business inquiries / E-mail para consultas comerciais: hello@vidal.press
 
 <div align="center">
   <img src="banner.gif" width="100%" height="400px">
