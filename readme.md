@@ -35,7 +35,6 @@
 
 - Podcast Tipsbook® : [www.tipsbook.com.br](https://www.tipsbook.com.br)
 - Blog / Conteúdos: https://vidal.press
-- Site de Projetos; https://vidal.dev.br
 - Email for business inquiries / E-mail para consultas comerciais: hello@vidal.press
 
 <div align="center">
