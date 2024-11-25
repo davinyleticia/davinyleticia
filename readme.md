@@ -33,7 +33,7 @@
 
 ### Contact Information / Informações de Contato:
 
-- Podcast Tipsbook® : [www.tipsbook.com.br](https://www.tipsbook.com.br)
+- Tipsbook® : [www.tipsbook.com.br](https://www.tipsbook.com.br)
 - Blog / Conteúdos: https://vidal.press
 - Email for business inquiries / E-mail para consultas comerciais: hello@vidal.press
 
