@@ -38,7 +38,7 @@
 - Email for business inquiries / E-mail para consultas comerciais: hello@vidal.press
 
 <div align="center">
-  <img src="banner.gif" width="100%" height="400px">
+  <img src="code.gif" width="100%" height="400px">
 </div>
 
 <h3 align="left"> Setup: </h3>
