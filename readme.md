@@ -78,7 +78,7 @@ Scrum, Kanban.
 MySQL,PostgreSQL.Metabase
 
 **Análise de Dados:**
-Python(pandas, Matplotlib), Power BI, Excel.
+Python (pandas, Matplotlib), Power BI, Excel.
 
 ---
 
