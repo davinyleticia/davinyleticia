@@ -2,7 +2,7 @@
 
 <div>
     
-📌 I am a 31-year-old Brazilian woman, passionate about data analysis and business in the digital commerce sector!
+📌 I am a 32-year-old Brazilian woman, passionate about data analysis and business in the digital commerce sector!
 </div>   
 
 ### About Me:
@@ -49,25 +49,36 @@
 Programação Simbólica, Orientado Objeto, Funcional,  Orientada a Eventos, 
 
 **Soft Skills:**
-comunicação, empatia e resolução de problemas.
+Comunicação, empatia e resolução de problemas.
 
-**Linguagens de Programação:**
-Python, SQL, JavaScript, TypeScript, Java, spring boot,  Ladder, Bash
+**Desenvolvimento Web:**
+React.js, Node.js, Next.js,
+Django, HTML, CSS,
+JavaScript, TypeScript, APIs
+REST, Java, Spring Boot
+
+**Automação e Scripts:**
+PowerShell, CMD, Python,
+Bash.
+
+**Suporte Técnico:**
+Active Directory, Office 365,
+conguração de impressoras,
+Microsoft Teams.
 
 **Ferramentas:**
-Jira, Trello, Confluence, AWS, Git
+Jira, Trello,
+Conuence, AWS, Docker, Git,
+Redis.
+
+**Metodologias Ágeis:**
+Scrum, Kanban.
 
 **Bancos de Dados:**
-MySQL, PostgreSQL
+MySQL,PostgreSQL.Metabase
 
-**Ferramentas Estatísticas:**
-Excel, Power BI
-
-**Gestão de Projetos:** 
-Scrum, Kanban, Liderança de Equipes, Gestão de Stakeholders
-
-**Outros:**
-Git, Docker, S3, Reactjs, NextJs, Django, Storybook APIs
+**Análise de Dados:**
+Python(pandas, Matplotlib), Power BI, Excel.
 
 ---
 
