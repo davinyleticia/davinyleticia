@@ -1,6 +1,7 @@
 
 
 # ✨ **Hi, I'm Le!** ✨  #
+
 📌 I'm a 32-year-old Brazilian woman passionate about **teaching**, **public speaking**, and **software engineering**!  
 
 ### **About Me**  
@@ -9,7 +10,6 @@ I have a deep interest in topics like **quantum physics**, **astrophysics**, and
 
 ---
 
-✨ **Olá, sou a Le!** ✨  
 📌 Sou uma brasileira de 32 anos apaixonada por **ensinar**, **dar palestras** e pela **engenharia de software**!  
 
 ### **Sobre Mim**  
