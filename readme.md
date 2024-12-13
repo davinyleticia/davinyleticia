@@ -1,41 +1,40 @@
-# ✨ Hi, I'm Le! ✨
-
-<div>
-    
-📌 I am a 32-year-old Brazilian woman, passionate about data analysis and business in the digital commerce sector!
-</div>   
-
-### About Me:
-
-- I enjoy binge-watching series in my spare time.
-- I have a keen interest in discussing topics like quantum physics, astrophysics, and electronics, but don't be surprised if we also chat about reality TV shows, series, and soap operas.
-
-### Courses
-
-📚📚📚 Postgraduate in Web Application Development (FAAL)
-
-📚📚 Technologist in systems analysis and development (Centro Braz Cubas).
-
-📚 I am studying technical commerce (ETEC).
 
 
-### Sobre Mim:
-- Gosto de maratonar séries nas horas vagas.
-- Tenho interesse em discutir tópicos como física quântica, astrofísica e eletrônica, mas não se surpreenda se também conversarmos sobre programas de TV, séries e novelas.
+# ✨ **Hi, I'm Le!** ✨  #
+📌 I'm a 32-year-old Brazilian woman passionate about **teaching**, **public speaking**, and **software engineering**!  
 
-### Cursos
+### **About Me**  
+I love binge-watching series in my free time.  
+I have a deep interest in topics like **quantum physics**, **astrophysics**, and **electronics**, but don’t be surprised if we also chat about **reality TV shows**, **series**, and **soap operas**.  
 
-📚📚📚 Pós Graduação em Desenvolvimento de Aplicações Web ( FAAL )
+---
 
-📚📚 Tecnóloga em análise e desenvolvimento de sistemas (Centro Braz Cubas).
+✨ **Olá, sou a Le!** ✨  
+📌 Sou uma brasileira de 32 anos apaixonada por **ensinar**, **dar palestras** e pela **engenharia de software**!  
 
-📚 Estou estudando técnico em comércio (ETEC).
+### **Sobre Mim**  
+Adoro maratonar séries nas horas vagas.  
+Tenho grande interesse por tópicos como **física quântica**, **astrofísica** e **eletrônica**, mas não se surpreenda se também conversarmos sobre **programas de TV**, **séries** e **novelas**.  
 
-### Contact Information / Informações de Contato:
+---
 
-- Tipsbook® : [www.tipsbook.com.br](https://www.tipsbook.com.br)
-- Blog / Conteúdos: https://vidal.press
-- Email for business inquiries / E-mail para consultas comerciais: hello@vidal.press
+### **Courses / Cursos**  
+- 📚📚📚 **Postgraduate in Web Application Development** – FAAL  
+- 📚📚 **Technologist in Systems Analysis and Development** – Centro Braz Cubas  
+- 📚 **Currently studying Technical Commerce** – ETEC  
+
+### **My Book / Meu Livro**  
+📖 **Learning Python / Aprendendo Python**  
+Explore my book and take your first steps in programming with Python!  
+[aprendendo-python.vidal.press](https://aprendendo-python.vidal.press)  
+
+---
+
+### **Contact Information / Informações de Contato**  
+- **Tipsbook®**: [www.tipsbook.com.br](http://www.tipsbook.com.br)  
+- **Blog / Conteúdos**: [vidal.press](https://vidal.press)  
+- **Email for business inquiries / E-mail para consultas comerciais**: hello@vidal.press  
+
 
 <div align="center">
   <img src="code.gif" width="100%" height="400px">
