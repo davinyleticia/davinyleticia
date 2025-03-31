@@ -33,14 +33,22 @@ Se você quer dar os primeiros passos no mundo da programação, confere meu liv
 
 ## 🛠️ Tecnologias & Habilidades
 
-💡 *Paradigmas:* Programação Simbólica, Orientada a Objetos, Funcional e Orientada a Eventos.  
-🎨 *Desenvolvimento Web:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, APIs REST, Java, Spring Boot.  
+💡 *Paradigmas:* Programação Simbólica, Orientada a Objetos, Funcional e Orientada a Eventos. 
+
+🎨 *Desenvolvimento Web:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, APIs REST, Java, Spring Boot.
+
 ⚙️ *Automação & Scripts:* PowerShell, CMD, Python, Bash.  
+
 🖥️ *Suporte Técnico:* Active Directory, Office 365, Microsoft Teams, configuração de impressoras.  
+
 📊 *Análise de Dados:* Python (pandas, Matplotlib), Power BI, Excel.  
+
 💾 *Bancos de Dados:* MySQL, PostgreSQL, Metabase.  
+
 🚀 *Ferramentas:* Jira, Trello, Confluence, AWS, Docker, Git, Redis.  
+
 📌 *Metodologias Ágeis:* Scrum, Kanban.  
+
 💖 *Soft Skills:* Comunicação, empatia e resolução de problemas.
 
 ## 💌 Entre em Contato
@@ -75,13 +83,21 @@ If you want to take your first steps into programming, check out my book! 📚�
 ## 🛠️ Technologies & Skills
 
 💡 *Programming Paradigms:* Symbolic, Object-Oriented, Functional, and Event-Driven Programming.  
-🎨 *Web Development:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, REST APIs, Java, Spring Boot.  
+
+🎨 *Web Development:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, REST APIs, Java, Spring Boot. 
+
 ⚙️ *Automation & Scripting:* PowerShell, CMD, Python, Bash.  
-🖥️ *Technical Support:* Active Directory, Office 365, Microsoft Teams, printer configuration.  
+
+🖥️ *Technical Support:* Active Directory, Office 365, Microsoft Teams, printer configuration. 
+
 📊 *Data Analysis:* Python (pandas, Matplotlib), Power BI, Excel.  
+
 💾 *Databases:* MySQL, PostgreSQL, Metabase.  
+
 🚀 *Tools:* Jira, Trello, Confluence, AWS, Docker, Git, Redis.  
+
 📌 *Agile Methodologies:* Scrum, Kanban.  
+
 💖 *Soft Skills:* Communication, empathy, and problem-solving.
 
 ## 💌 Contact Me
