@@ -1,91 +1,100 @@
-
-
-# ✨ **Hi, I'm Le!** ✨  #
-
-📌 I'm a 32-year-old Brazilian woman passionate about **teaching**, **public speaking**, and **software engineering**!  
-
-### **About Me**  
-I love binge-watching series in my free time.  
-I have a deep interest in topics like **quantum physics**, **astrophysics**, and **electronics**, but don’t be surprised if we also chat about **reality TV shows**, **series**, and **soap operas**.  
-
----
-
-📌 Sou uma brasileira de 32 anos apaixonada por **ensinar**, **dar palestras** e pela **engenharia de software**!  
-
-### **Sobre Mim**  
-Adoro maratonar séries nas horas vagas.  
-Tenho grande interesse por tópicos como **física quântica**, **astrofísica** e **eletrônica**, mas não se surpreenda se também conversarmos sobre **programas de TV**, **séries** e **novelas**.  
-
----
-
-### **Courses / Cursos**  
-- 📚📚📚 **Postgraduate in Web Application Development** – FAAL  
-- 📚📚 **Technologist in Systems Analysis and Development** – Centro Braz Cubas  
-- 📚 **Currently studying Technical Commerce** – ETEC  
-
-### **My Book / Meu Livro**  
-📖 **Learning Python / Aprendendo Python**  
-Explore my book and take your first steps in programming with Python!  
-[aprendendo-python.vidal.press](https://aprendendo-python.vidal.press)  
-
----
-
-### **Contact Information / Informações de Contato**  
-- **Tipsbook®**: [www.tipsbook.com.br](http://www.tipsbook.com.br)  
-- **Blog / Conteúdos**: [vidal.press](https://vidal.press)  
-- **Email for business inquiries / E-mail para consultas comerciais**: hello@vidal.press  
-
-
-<div align="center">
-  <img src="code.gif" width="100%" height="400px">
-</div>
-
-<h3 align="left"> Setup: </h3>
-<a href="https://vidal.press/meu-setup/">https://vidal.press/meu-setup</a>
-
----
-
-Programação Simbólica, Orientado Objeto, Funcional,  Orientada a Eventos, 
-
-**Soft Skills:**
-Comunicação, empatia e resolução de problemas.
-
-**Desenvolvimento Web:**
-React.js, Node.js, Next.js,
-Django, HTML, CSS,
-JavaScript, TypeScript, APIs
-REST, Java, Spring Boot
-
-**Automação e Scripts:**
-PowerShell, CMD, Python,
-Bash.
-
-**Suporte Técnico:**
-Active Directory, Office 365,
-conguração de impressoras,
-Microsoft Teams.
-
-**Ferramentas:**
-Jira, Trello,
-Conuence, AWS, Docker, Git,
-Redis.
-
-**Metodologias Ágeis:**
-Scrum, Kanban.
-
-**Bancos de Dados:**
-MySQL,PostgreSQL.Metabase
-
-**Análise de Dados:**
-Python (pandas, Matplotlib), Power BI, Excel.
-
----
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/davinyleticia/davinyleticia/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/davinyleticia/davinyleticia/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davinyleticia/davinyleticia/output/github-contribution-grid-snake.svg">
 </picture>
 
+# ✨ Olá, eu sou a Le! / Hi, I'm Le! ✨
 
+<div align="center">
+  <button onclick="showSection('pt')">🇧🇷 Português</button>
+  <button onclick="showSection('en')">🇬🇧 English</button>
+</div>
 
+<div id="pt">
+
+## 🌟 Sobre Mim
+
+👩‍💻 Desenvolvedora, educadora e entusiasta de tecnologia. Tenho um amor especial por ensinar, dar palestras e explorar novas ideias!  
+📺 Amo maratonar séries (sim, sou dessas que assiste tudo de uma vez!).  
+🔭 Tenho grande interesse por física quântica, astrofísica e eletrônica.  
+💬 Mas também adoro um bom papo sobre reality shows, novelas e cultura pop!
+
+## 🎓 Formação
+
+📚 Pós-graduação em Desenvolvimento de Aplicações Web – FAAL  
+📚 Tecnóloga em Análise e Desenvolvimento de Sistemas – Centro Braz Cubas  
+📚 Atualmente estudando Técnico em Comércio – ETEC  
+
+## 📖 Meu Livro – *Aprendendo Python*
+
+Se você quer dar os primeiros passos no mundo da programação, confere meu livro! 📚🐍  
+📌 [Aprendendo Python](https://aprendendo-python.vidal.press)
+
+## 🛠️ Tecnologias & Habilidades
+
+💡 *Paradigmas:* Programação Simbólica, Orientada a Objetos, Funcional e Orientada a Eventos.  
+🎨 *Desenvolvimento Web:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, APIs REST, Java, Spring Boot.  
+⚙️ *Automação & Scripts:* PowerShell, CMD, Python, Bash.  
+🖥️ *Suporte Técnico:* Active Directory, Office 365, Microsoft Teams, configuração de impressoras.  
+📊 *Análise de Dados:* Python (pandas, Matplotlib), Power BI, Excel.  
+💾 *Bancos de Dados:* MySQL, PostgreSQL, Metabase.  
+🚀 *Ferramentas:* Jira, Trello, Confluence, AWS, Docker, Git, Redis.  
+📌 *Metodologias Ágeis:* Scrum, Kanban.  
+💖 *Soft Skills:* Comunicação, empatia e resolução de problemas.
+
+## 💌 Entre em Contato
+
+🌐 **Tipsbook®:** [www.tipsbook.com.br](https://www.tipsbook.com.br)  
+📝 **Blog:** [vidal.press](https://vidal.press)  
+📧 **E-mail para consultas comerciais:** [hello@vidal.press](mailto:hello@vidal.press)  
+🖥️ **Meu Setup:** [vidal.press/meu-setup](https://vidal.press/meu-setup)  
+
+✨ Obrigada por passar por aqui! Se quiser trocar uma ideia, fique à vontade para me chamar! 🚀💜
+</div>
+
+<div id="en" style="display:none;">
+
+## 🌟 About Me
+
+👩‍💻 Developer, educator, and tech enthusiast. I have a special love for teaching, speaking, and exploring new ideas!  
+📺 I love binge-watching series (yes, I'm the kind of person who watches everything at once!).  
+🔭 I have a great interest in quantum physics, astrophysics, and electronics.  
+💬 But I also love chatting about reality shows, soap operas, and pop culture!
+
+## 🎓 Education
+
+📚 Postgraduate in Web Application Development – FAAL  
+📚 Technologist in Systems Analysis and Development – Centro Braz Cubas  
+📚 Currently studying Technical Commerce – ETEC  
+
+## 📖 My Book – *Learning Python*
+
+If you want to take your first steps into programming, check out my book! 📚🐍  
+📌 [Learning Python](https://aprendendo-python.vidal.press)
+
+## 🛠️ Technologies & Skills
+
+💡 *Programming Paradigms:* Symbolic, Object-Oriented, Functional, and Event-Driven Programming.  
+🎨 *Web Development:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, REST APIs, Java, Spring Boot.  
+⚙️ *Automation & Scripting:* PowerShell, CMD, Python, Bash.  
+🖥️ *Technical Support:* Active Directory, Office 365, Microsoft Teams, printer configuration.  
+📊 *Data Analysis:* Python (pandas, Matplotlib), Power BI, Excel.  
+💾 *Databases:* MySQL, PostgreSQL, Metabase.  
+🚀 *Tools:* Jira, Trello, Confluence, AWS, Docker, Git, Redis.  
+📌 *Agile Methodologies:* Scrum, Kanban.  
+💖 *Soft Skills:* Communication, empathy, and problem-solving.
+
+## 💌 Contact Me
+
+🌐 **Tipsbook®:** [www.tipsbook.com.br](https://www.tipsbook.com.br)  
+📝 **Blog:** [vidal.press](https://vidal.press)  
+📧 **Email for business inquiries:** [hello@vidal.press](mailto:hello@vidal.press)  
+🖥️ **My Setup:** [vidal.press/meu-setup](https://vidal.press/meu-setup)  
+
+✨ Thanks for stopping by! If you want to chat, feel free to reach out! 🚀💜
+</div>
+
+<div align="center">
+  <img src="code.gif" width="100%" height="400px">
+</div>
