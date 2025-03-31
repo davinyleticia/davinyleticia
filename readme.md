@@ -35,7 +35,7 @@ Se você quer dar os primeiros passos no mundo da programação, confere meu liv
 
 💡 *Paradigmas:* Programação Simbólica, Orientada a Objetos, Funcional e Orientada a Eventos. 
 
-🎨 *Desenvolvimento Web:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, APIs REST, Java, Spring Boot.
+🎨 *Desenvolvimento Web:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, APIs REST.
 
 ⚙️ *Automação & Scripts:* PowerShell, CMD, Python, Bash.  
 
@@ -84,7 +84,7 @@ If you want to take your first steps into programming, check out my book! 📚�
 
 💡 *Programming Paradigms:* Symbolic, Object-Oriented, Functional, and Event-Driven Programming.  
 
-🎨 *Web Development:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, REST APIs, Java, Spring Boot. 
+🎨 *Web Development:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, REST APIs. 
 
 ⚙️ *Automation & Scripting:* PowerShell, CMD, Python, Bash.  
 
