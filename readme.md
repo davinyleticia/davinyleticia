@@ -44,8 +44,7 @@ Se você quer dar os primeiros passos no mundo da programação, confere meu liv
 💖 *Soft Skills:* Comunicação, empatia e resolução de problemas.
 
 ## 💌 Entre em Contato
-
-🌐 **Tipsbook®:** [www.tipsbook.com.br](https://www.tipsbook.com.br)  
+ 
 📝 **Blog:** [vidal.press](https://vidal.press)  
 📧 **E-mail para consultas comerciais:** [hello@vidal.press](mailto:hello@vidal.press)  
 🖥️ **Meu Setup:** [vidal.press/meu-setup](https://vidal.press/meu-setup)  
@@ -86,8 +85,7 @@ If you want to take your first steps into programming, check out my book! 📚�
 💖 *Soft Skills:* Communication, empathy, and problem-solving.
 
 ## 💌 Contact Me
-
-🌐 **Tipsbook®:** [www.tipsbook.com.br](https://www.tipsbook.com.br)  
+ 
 📝 **Blog:** [vidal.press](https://vidal.press)  
 📧 **Email for business inquiries:** [hello@vidal.press](mailto:hello@vidal.press)  
 🖥️ **My Setup:** [vidal.press/meu-setup](https://vidal.press/meu-setup)  
