@@ -22,9 +22,11 @@
 
 ## 🎓 Formação
 
-📚 Pós-graduação em Desenvolvimento de Aplicações Web – FAAL  
-📚 Tecnóloga em Análise e Desenvolvimento de Sistemas – Centro Braz Cubas  
-📚 Atualmente estudando Técnico em Comércio – ETEC  
+📚📚📚 Pós-graduação em Desenvolvimento de Aplicações Web – FAAL
+📚📚 estudando Tecnóloga em Automação Industrial - Fatec Itaquera
+📚📚 Tecnóloga em Análise e Desenvolvimento de Sistemas – Centro Braz Cubas  
+📚 Técnico em Comércio – ETEC
+📚 Técnico em Eletrônica - Liceu Braz Cubas
 
 ## 📖 Meu Livro – *Aprendendo Python*
 
@@ -71,9 +73,11 @@ Se você quer dar os primeiros passos no mundo da programação, confere meu liv
 
 ## 🎓 Education
 
-📚 Postgraduate in Web Application Development – FAAL  
-📚 Technologist in Systems Analysis and Development – Centro Braz Cubas  
-📚 Currently studying Technical Commerce – ETEC  
+📚📚📚 Postgraduate in Web Application Development – FAAL
+📚📚 Currently studying: Industrial Automation Technology – Fatec Itaquera
+📚📚 Technologist in Systems Analysis and Development – Centro Universitário Braz Cubas
+📚 Technical Degree in Commerce – ETEC
+📚 Technical Degree in Electronics – Liceu Braz Cubas
 
 ## 📖 My Book – *Learning Python*
 
