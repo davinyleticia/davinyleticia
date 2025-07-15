@@ -24,7 +24,7 @@
 
 📚📚📚 Pós-graduação em Desenvolvimento de Aplicações Web – FAAL
 
-📚📚 estudando Tecnóloga em Automação Industrial - Fatec Itaquera
+📚📚 Estudando Tecnólogo em Automação Industrial - Fatec Itaquera
 
 📚📚 Tecnóloga em Análise e Desenvolvimento de Sistemas – Centro Braz Cubas 
 
