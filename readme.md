@@ -4,122 +4,163 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davinyleticia/davinyleticia/output/github-contribution-grid-snake.svg">
 </picture>
 
-# ✨ Olá, eu sou a Le! / Hi, I'm Le! ✨
+# Olá, eu sou a Daviny 👋
 
-<div align="center">
-  <button onclick="showSection('pt')">🇧🇷 Português</button>
-  <button onclick="showSection('en')">🇬🇧 English</button>
-</div>
+👩‍💻 Desenvolvedora, educadora e entusiasta de tecnologia.  
+Tenho um amor especial por ensinar, dar palestras e explorar novas ideias!
 
-<div id="pt">
-
-## 🌟 Sobre Mim
-
-👩‍💻 Desenvolvedora, educadora e entusiasta de tecnologia. Tenho um amor especial por ensinar, dar palestras e explorar novas ideias!  
 📺 Amo maratonar séries (sim, sou dessas que assiste tudo de uma vez!).  
 🔭 Tenho grande interesse por física quântica, astrofísica e eletrônica.  
 💬 Mas também adoro um bom papo sobre reality shows, novelas e cultura pop!
 
-## 🎓 Formação
+---
 
-📚📚📚 Pós-graduação em Desenvolvimento de Aplicações Web – FAAL
+## 🎓 Formação Acadêmica
 
-📚📚 Estudando Tecnólogo em Automação Industrial - Fatec Itaquera
+- Pós-graduação em Desenvolvimento de Aplicações Web – FAAL  
+- Estudando Tecnólogo em Automação Industrial - Fatec Itaquera  
+- Tecnóloga em Análise e Desenvolvimento de Sistemas – Centro Braz Cubas  
+- Técnico em Comércio – ETEC  
+- Técnico em Eletrônica - Liceu Braz Cubas  
 
-📚📚 Tecnóloga em Análise e Desenvolvimento de Sistemas – Centro Braz Cubas 
+---
 
-📚 Técnico em Comércio – ETEC
+## 📖 Meu Livro
 
-📚 Técnico em Eletrônica - Liceu Braz Cubas
-
-## 📖 Meu Livro – *Aprendendo Python*
-
+**Aprendendo Python**  
 Se você quer dar os primeiros passos no mundo da programação, confere meu livro! 📚🐍  
-📌 [Aprendendo Python](https://aprendendo-python.vidal.press)
+[📌 Aprendendo Python](link-para-seu-livro-ou-site)
+
+---
 
 ## 🛠️ Tecnologias & Habilidades
 
-💡 *Paradigmas:* Programação Simbólica, Orientada a Objetos, Funcional e Orientada a Eventos. 
+### Paradigmas  
+- Programação Simbólica  
+- Orientada a Objetos  
+- Funcional  
+- Orientada a Eventos  
 
-🎨 *Desenvolvimento Web:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, APIs REST.
+### Desenvolvimento Web  
+- React.js, Node.js, Next.js, Django  
+- HTML, CSS, JavaScript, TypeScript  
+- APIs REST  
 
-⚙️ *Automação & Scripts:* PowerShell, CMD, Python, Bash.  
+### Automação & Scripts  
+- PowerShell, CMD, Python, Bash  
 
-🖥️ *Suporte Técnico:* Active Directory, Office 365, Microsoft Teams, configuração de impressoras.  
+### Suporte Técnico  
+- Active Directory, Office 365, Microsoft Teams, configuração de impressoras  
 
-📊 *Análise de Dados:* Python (pandas, Matplotlib), Power BI, Excel.  
+### Análise de Dados  
+- Python (pandas, Matplotlib)  
+- Power BI, Excel  
 
-💾 *Bancos de Dados:* MySQL, PostgreSQL, Metabase.  
+### Bancos de Dados  
+- MySQL, PostgreSQL, Metabase  
 
-🚀 *Ferramentas:* Jira, Trello, Confluence, AWS, Docker, Git, Redis.  
+### Ferramentas  
+- Jira, Trello, Confluence, AWS, Docker, Git, Redis  
 
-📌 *Metodologias Ágeis:* Scrum, Kanban.  
+### Metodologias Ágeis  
+- Scrum, Kanban  
 
-💖 *Soft Skills:* Comunicação, empatia e resolução de problemas.
+### Soft Skills  
+- Comunicação  
+- Empatia  
+- Resolução de problemas  
+
+---
 
 ## 💌 Entre em Contato
- 
-📝 **Blog:** [vidal.press](https://vidal.press)  
-📧 **E-mail para consultas comerciais:** [hello@vidal.press](mailto:hello@vidal.press)  
-🖥️ **Meu Setup:** [vidal.press/meu-setup](https://vidal.press/meu-setup)  
+
+- 📝 Blog: [vidal.press](https://vidal.press)  
+- 📧 E-mail para consultas comerciais: hello@vidal.press  
+- 🖥️ Meu Setup: [vidal.press/meu-setup](https://vidal.press/meu-setup)  
+
+---
 
 ✨ Obrigada por passar por aqui! Se quiser trocar uma ideia, fique à vontade para me chamar! 🚀💜
-</div>
 
-<div id="en" style="display:none;">
 
-## 🌟 About Me
+# Hello, I’m Daviny 👋
 
-👩‍💻 Developer, educator, and tech enthusiast. I have a special love for teaching, speaking, and exploring new ideas!  
-📺 I love binge-watching series (yes, I'm the kind of person who watches everything at once!).  
+👩‍💻 Developer, educator, and technology enthusiast.  
+I have a special passion for teaching, giving talks, and exploring new ideas!
+
+📺 I love binge-watching series (yes, I’m one of those who watch it all at once!).  
 🔭 I have a great interest in quantum physics, astrophysics, and electronics.  
-💬 But I also love chatting about reality shows, soap operas, and pop culture!
+💬 But I also enjoy a good chat about reality shows, soap operas, and pop culture!
+
+---
 
 ## 🎓 Education
 
-📚📚📚 Postgraduate in Web Application Development – FAAL
+- Postgraduate in Web Application Development – FAAL  
+- Studying Industrial Automation Technology - Fatec Itaquera  
+- Technology in Systems Analysis and Development – Centro Braz Cubas  
+- Commerce Technician – ETEC  
+- Electronics Technician - Liceu Braz Cubas  
 
-📚📚 Currently studying: Industrial Automation Technology – Fatec Itaquera
+---
 
-📚📚 Technologist in Systems Analysis and Development – Centro Universitário Braz Cubas
+## 📖 My Book
 
-📚 Technical Degree in Commerce – ETEC
+**Learning Python**  
+If you want to take your first steps into the world of programming, check out my book! 📚🐍  
+[📌 Learning Python](link-to-your-book-or-website)
 
-📚 Technical Degree in Electronics – Liceu Braz Cubas
-
-## 📖 My Book – *Learning Python*
-
-If you want to take your first steps into programming, check out my book! 📚🐍  
-📌 [Learning Python](https://aprendendo-python.vidal.press)
+---
 
 ## 🛠️ Technologies & Skills
 
-💡 *Programming Paradigms:* Symbolic, Object-Oriented, Functional, and Event-Driven Programming.  
+### Paradigms  
+- Symbolic Programming  
+- Object-Oriented  
+- Functional  
+- Event-Driven  
 
-🎨 *Web Development:* React.js, Node.js, Next.js, Django, HTML, CSS, JavaScript, TypeScript, REST APIs. 
+### Web Development  
+- React.js, Node.js, Next.js, Django  
+- HTML, CSS, JavaScript, TypeScript  
+- REST APIs  
 
-⚙️ *Automation & Scripting:* PowerShell, CMD, Python, Bash.  
+### Automation & Scripting  
+- PowerShell, CMD, Python, Bash  
 
-🖥️ *Technical Support:* Active Directory, Office 365, Microsoft Teams, printer configuration. 
+### Technical Support  
+- Active Directory, Office 365, Microsoft Teams, Printer Configuration  
 
-📊 *Data Analysis:* Python (pandas, Matplotlib), Power BI, Excel.  
+### Data Analysis  
+- Python (pandas, Matplotlib)  
+- Power BI, Excel  
 
-💾 *Databases:* MySQL, PostgreSQL, Metabase.  
+### Databases  
+- MySQL, PostgreSQL, Metabase  
 
-🚀 *Tools:* Jira, Trello, Confluence, AWS, Docker, Git, Redis.  
+### Tools  
+- Jira, Trello, Confluence, AWS, Docker, Git, Redis  
 
-📌 *Agile Methodologies:* Scrum, Kanban.  
+### Agile Methodologies  
+- Scrum, Kanban  
 
-💖 *Soft Skills:* Communication, empathy, and problem-solving.
+### Soft Skills  
+- Communication  
+- Empathy  
+- Problem Solving  
 
-## 💌 Contact Me
- 
-📝 **Blog:** [vidal.press](https://vidal.press)  
-📧 **Email for business inquiries:** [hello@vidal.press](mailto:hello@vidal.press)  
-🖥️ **My Setup:** [vidal.press/meu-setup](https://vidal.press/meu-setup)  
+---
+
+## 💌 Get in Touch
+
+- 📝 Blog: [vidal.press](https://vidal.press)  
+- 📧 Business inquiries: hello@vidal.press  
+- 🖥️ My Setup: [vidal.press/meu-setup](https://vidal.press/meu-setup)  
+
+---
 
 ✨ Thanks for stopping by! If you want to chat, feel free to reach out! 🚀💜
-</div>
+
 
 <div align="center">
   <img src="code.gif" width="100%" height="400px">
