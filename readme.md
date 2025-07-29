@@ -4,7 +4,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/davinyleticia/davinyleticia/output/github-contribution-grid-snake.svg">
 </picture>
 
-# Olá, eu sou a Daviny 👋
+# Olá, eu sou a Letícia 👋
 
 👩‍💻 Desenvolvedora, educadora e entusiasta de tecnologia.  
 Tenho um amor especial por ensinar, dar palestras e explorar novas ideias!
@@ -83,7 +83,7 @@ Se você quer dar os primeiros passos no mundo da programação, confere meu liv
 ✨ Obrigada por passar por aqui! Se quiser trocar uma ideia, fique à vontade para me chamar! 🚀💜
 
 
-# Hello, I’m Daviny 👋
+# Hello, I’m Letícia 👋
 
 👩‍💻 Developer, educator, and technology enthusiast.  
 I have a special passion for teaching, giving talks, and exploring new ideas!
