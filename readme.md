@@ -17,7 +17,7 @@ Tenho um amor especial por ensinar, dar palestras e explorar novas ideias!
 
 ## 🎓 Formação Acadêmica
 
-- Pós-graduação em Desenvolvimento de Aplicações Web – FAAL  
+- Pós-graduação em Desenvolvimento de Sistema com Java – FAAL  
 - Estudando Tecnólogo em Desenvolvimento de Sistema Multiplataforma - Fatec Itaquera  
 - Tecnóloga em Análise e Desenvolvimento de Sistemas – Centro Braz Cubas  
 - Técnico em Comércio – ETEC  
@@ -97,7 +97,7 @@ I have a special passion for teaching, giving talks, and exploring new ideas!
 
 ## 🎓 Education
 
-- Postgraduate in Web Application Development – FAAL  
+- Postgraduate in Java System Development – FAAL  
 - Currently studying Multiplatform Systems Development Technology - Fatec Itaquera
 - Technology in Systems Analysis and Development – Centro Braz Cubas  
 - Commerce Technician – ETEC  
