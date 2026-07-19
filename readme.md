@@ -75,7 +75,6 @@ Se você quer dar os primeiros passos no mundo da programação, confere meu liv
 ## 💌 Entre em Contato
 
 - 📝 Blog: [vidal.press](https://vidal.press)
-- 🖥️ Projetos: [daviny.dev](https://daviny.dev)
 - 📧 E-mail para consultas comerciais: hello@vidal.press  
 - 🖥️ Meu Setup: [vidal.press/meu-setup](https://vidal.press/meu-setup)  
 
@@ -155,7 +154,6 @@ If you want to take your first steps into the world of programming, check out my
 ## 💌 Get in Touch
 
 - 📝 Blog: [vidal.press](https://vidal.press)
-- 🖥️ Projects: [daviny.dev](https://daviny.dev)
 - 📧 Business inquiries: hello@vidal.press  
 - 🖥️ My Setup: [vidal.press/meu-setup](https://vidal.press/meu-setup)  
 
