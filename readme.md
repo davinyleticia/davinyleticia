@@ -6,160 +6,334 @@
 
 # Olá, eu sou a Letícia 👋
 
-👩‍💻 Desenvolvedora, educadora e entusiasta de tecnologia.  
-Tenho um amor especial por ensinar, dar palestras e explorar novas ideias!
+**Professora de Educação Profissional e Tecnológica | Analista de Sistemas | Desenvolvedora**
 
-📺 Amo maratonar séries (sim, sou dessas que assiste tudo de uma vez!).  
-🔭 Tenho grande interesse por física quântica, astrofísica e eletrônica.  
-💬 Mas também adoro um bom papo sobre reality shows, novelas e cultura pop!
+Atuo na área de Tecnologia da Informação, unindo **desenvolvimento de software, análise de sistemas e educação profissional**.
+
+Atualmente, sou **Professora de Ensino Médio Técnico na ETEC Parque da Juventude (ETEC PJ)**, onde atuo na formação de estudantes na área de desenvolvimento de sistemas e tecnologia. Também trabalho como **Analista de Sistemas na AFIP**, participando da análise, desenvolvimento e evolução de soluções para processos e sistemas corporativos.
+
+Tenho especial interesse por **desenvolvimento de software, engenharia de sistemas, educação tecnológica, automação, inteligência artificial e novas tecnologias**. Acredito que a tecnologia tem seu maior impacto quando aliada ao conhecimento, à colaboração e à capacidade de resolver problemas reais.
+
+Além da atuação profissional, tenho interesse em **pesquisa, ensino, palestras e produção de conteúdo técnico**, buscando compartilhar conhecimento e aproximar a tecnologia das pessoas.
 
 ---
 
 ## 🎓 Formação Acadêmica
 
-- Pós-graduação em Desenvolvimento de Sistema com Java – FAAL  
-- Estudando Tecnólogo em Desenvolvimento de Sistema Multiplataforma - Fatec Itaquera  
-- Tecnóloga em Análise e Desenvolvimento de Sistemas – Centro Braz Cubas  
-- Técnico em Comércio – ETEC  
-- Técnico em Eletrônica - Liceu Braz Cubas  
+* **Pós-graduação em Desenvolvimento de Sistemas com Java** — FAAL
+* **Tecnólogo em Desenvolvimento de Software Multiplataforma (DSM)** — Fatec Itaquera
+* **Tecnóloga em Análise e Desenvolvimento de Sistemas (ADS)** — Centro Universitário Braz Cubas
+* **Técnico em Comércio** — ETEC
+* **Técnico em Eletrônica** — Liceu Braz Cubas
 
 ---
 
-## 📖 Meu Livro
+## 👩‍🏫 Atuação Acadêmica e Docência
 
-**Aprendendo Python**  
-Se você quer dar os primeiros passos no mundo da programação, confere meu livro! 📚🐍  
-[📌 Aprendendo Python](link-para-seu-livro-ou-site)
+### ETEC Parque da Juventude — ETEC PJ
 
----
+**Professora de Ensino Médio Técnico**
 
-## 🛠️ Tecnologias & Habilidades
+Atuação na educação profissional e tecnológica, contribuindo para a formação de estudantes nas áreas de:
 
-### Paradigmas  
-- Programação Simbólica  
-- Orientada a Objetos  
-- Funcional  
-- Orientada a Eventos  
+* Desenvolvimento de Sistemas
+* Desenvolvimento Web
+* Banco de Dados
+* Programação
+* Tecnologias e ferramentas para desenvolvimento de software
 
-### Desenvolvimento Web  
-- React.js, Node.js, Next.js, Django  
-- HTML, CSS, JavaScript, TypeScript  
-- APIs REST  
-
-### Automação & Scripts  
-- PowerShell, CMD, Python, Bash  
-
-### Suporte Técnico  
-- Active Directory, Office 365, Microsoft Teams, configuração de impressoras  
-
-### Análise de Dados  
-- Python (pandas, Matplotlib)  
-- Power BI, Excel  
-
-### Bancos de Dados  
-- MySQL, PostgreSQL, Metabase  
-
-### Ferramentas  
-- Jira, Trello, Confluence, AWS, Docker, Git, Redis  
-
-### Metodologias Ágeis  
-- Scrum, Kanban  
-
-### Soft Skills  
-- Comunicação  
-- Empatia  
-- Resolução de problemas  
+Tenho como objetivo aproximar a teoria da prática profissional, utilizando projetos e situações reais para desenvolver nos alunos tanto competências técnicas quanto capacidade de análise e resolução de problemas.
 
 ---
 
-## 💌 Entre em Contato
+## 💼 Atuação Profissional
 
-- 📝 Blog: [vidal.press](https://vidal.press)
-- 📧 E-mail para consultas comerciais: hello@vidal.press  
-- 🖥️ Meu Setup: [vidal.press/meu-setup](https://vidal.press/meu-setup)  
+### AFIP
 
----
+**Analista de Sistemas**
 
-✨ Obrigada por passar por aqui! Se quiser trocar uma ideia, fique à vontade para me chamar! 🚀💜
+Atuação com análise e desenvolvimento de soluções para ambientes corporativos, envolvendo levantamento de requisitos, análise de processos, integração de sistemas, desenvolvimento e manutenção de aplicações.
 
-
-# Hello, I’m Letícia 👋
-
-👩‍💻 Developer, educator, and technology enthusiast.  
-I have a special passion for teaching, giving talks, and exploring new ideas!
-
-📺 I love binge-watching series (yes, I’m one of those who watch it all at once!).  
-🔭 I have a great interest in quantum physics, astrophysics, and electronics.  
-💬 But I also enjoy a good chat about reality shows, soap operas, and pop culture!
+Meu trabalho envolve a busca por soluções tecnológicas que contribuam para **automatização de processos, melhoria operacional e evolução dos sistemas utilizados pela organização**.
 
 ---
 
-## 🎓 Education
+## 🛠️ Áreas de Conhecimento
 
-- Postgraduate in Java System Development – FAAL  
-- Currently studying Multiplatform Systems Development Technology - Fatec Itaquera
-- Technology in Systems Analysis and Development – Centro Braz Cubas  
-- Commerce Technician – ETEC  
-- Electronics Technician - Liceu Braz Cubas  
+### Desenvolvimento de Software
 
----
+* React.js
+* Next.js
+* Node.js
+* TypeScript
+* JavaScript
+* Python
+* PHP
+* Django
+* APIs REST
 
-## 📖 My Book
+### Banco de Dados
 
-**Learning Python**  
-If you want to take your first steps into the world of programming, check out my book! 📚🐍  
-[📌 Learning Python](link-to-your-book-or-website)
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+* SQL
 
----
+### DevOps e Infraestrutura
 
-## 🛠️ Technologies & Skills
+* Docker
+* Git
+* GitHub
+* GitLab
+* AWS
+* Linux
+* Bash
 
-### Paradigms  
-- Symbolic Programming  
-- Object-Oriented  
-- Functional  
-- Event-Driven  
+### Automação e Scripting
 
-### Web Development  
-- React.js, Node.js, Next.js, Django  
-- HTML, CSS, JavaScript, TypeScript  
-- REST APIs  
+* Python
+* PowerShell
+* Bash
+* CMD
 
-### Automation & Scripting  
-- PowerShell, CMD, Python, Bash  
+### Dados e Business Intelligence
 
-### Technical Support  
-- Active Directory, Office 365, Microsoft Teams, Printer Configuration  
+* Python
+* Pandas
+* Matplotlib
+* Power BI
+* Excel
+* Metabase
 
-### Data Analysis  
-- Python (pandas, Matplotlib)  
-- Power BI, Excel  
+### Metodologias e Gestão
 
-### Databases  
-- MySQL, PostgreSQL, Metabase  
-
-### Tools  
-- Jira, Trello, Confluence, AWS, Docker, Git, Redis  
-
-### Agile Methodologies  
-- Scrum, Kanban  
-
-### Soft Skills  
-- Communication  
-- Empathy  
-- Problem Solving  
-
----
-
-## 💌 Get in Touch
-
-- 📝 Blog: [vidal.press](https://vidal.press)
-- 📧 Business inquiries: hello@vidal.press  
-- 🖥️ My Setup: [vidal.press/meu-setup](https://vidal.press/meu-setup)  
+* Scrum
+* Kanban
+* Jira
+* Trello
+* Confluence
 
 ---
 
-✨ Thanks for stopping by! If you want to chat, feel free to reach out! 🚀💜
+## 🔬 Interesses Acadêmicos e Tecnológicos
+
+Meus principais interesses estão relacionados a:
+
+* Engenharia e desenvolvimento de software
+* Inteligência Artificial
+* Educação e tecnologia
+* Automação
+* Sistemas distribuídos
+* Computação em nuvem
+* Eletrônica
+* Física e astrofísica
+* Ciência e inovação tecnológica
+
+---
+
+## 📖 Produção e Compartilhamento de Conhecimento
+
+### Aprendendo Python 🐍
+
+Sou autora do livro **Aprendendo Python**, desenvolvido com o objetivo de apresentar os fundamentos da programação de maneira acessível para quem está iniciando na área de tecnologia.
+
+📚 **[Conheça o livro](link-para-seu-livro-ou-site)**
+
+Também compartilho conteúdos relacionados a **tecnologia, programação, educação e desenvolvimento profissional**.
+
+---
+
+## 🌐 Contato e Projetos
+
+* 🌐 **Site:** [vidal.press](https://vidal.press)
+* 📧 **Contato profissional:** [hello@vidal.press](mailto:hello@vidal.press)
+* 🖥️ **Meu Setup:** [vidal.press/meu-setup](https://vidal.press/meu-setup)
+
+---
+
+## ✨ Sobre meu trabalho
+
+Minha trajetória profissional combina **tecnologia, educação e desenvolvimento de pessoas**.
+
+Como **Analista de Sistemas**, atuo na resolução de problemas e construção de soluções tecnológicas. Como **professora**, compartilho conhecimento e contribuo para a formação de novos profissionais de tecnologia.
+
+Meu objetivo é continuar evoluindo nessas duas frentes, aproximando **mercado, academia e tecnologia**, e contribuindo para a construção de soluções e conhecimentos que gerem impacto positivo.
+
+
+
+# Hello, I'm Letícia 👋
+
+**Professor of Vocational and Technical Education | Systems Analyst | Software Developer**
+
+I am a technology professional working at the intersection of **software development, systems analysis, and education**.
+
+I currently work as a **Professor of Vocational and Technical Education at ETEC Parque da Juventude (ETEC PJ)**, where I contribute to the education and professional development of students in the field of technology and software development.
+
+I also work as a **Systems Analyst at AFIP**, contributing to the analysis, development, integration, and continuous improvement of corporate systems and technological solutions.
+
+My professional interests include **software engineering, systems development, artificial intelligence, automation, cloud computing, electronics, and technology education**. I am particularly interested in transforming technical knowledge into practical solutions and making technology more accessible through education.
+
+Beyond my professional activities, I enjoy **teaching, giving technical talks, developing projects, and sharing knowledge** with the technology community.
+
+---
+
+## 🎓 Academic Background
+
+* **Postgraduate Specialization in Java Systems Development** — FAAL
+* **Bachelor's Degree in Multiplatform Software Development** — Fatec Itaquera
+* **Associate Degree in Systems Analysis and Development** — Centro Universitário Braz Cubas
+* **Technical Degree in Commerce** — ETEC
+* **Technical Degree in Electronics** — Liceu Braz Cubas
+
+---
+
+## 👩‍🏫 Academic & Teaching Experience
+
+### ETEC Parque da Juventude — ETEC PJ
+
+**Professor of Vocational and Technical Education**
+
+I teach and mentor students in technology-related subjects, with a focus on software development and information systems.
+
+My teaching areas include:
+
+* Software Development
+* Web Development
+* Database Systems
+* Programming
+* Systems Development
+* Software Engineering concepts
+
+My approach combines **theoretical foundations with practical projects**, helping students develop both technical skills and problem-solving abilities that are relevant to the technology industry.
+
+---
+
+## 💼 Professional Experience
+
+### AFIP
+
+**Systems Analyst**
+
+I work with the analysis and evolution of corporate systems and technological solutions.
+
+My responsibilities involve areas such as:
+
+* Systems analysis
+* Business process analysis
+* Requirements analysis
+* Systems integration
+* Software development
+* Process automation
+* Continuous improvement of corporate solutions
+
+My goal is to use technology to improve processes, solve real-world problems, and create more efficient and reliable solutions.
+
+---
+
+## 🛠️ Technical Skills
+
+### Software Development
+
+* React.js
+* Next.js
+* Node.js
+* TypeScript
+* JavaScript
+* Python
+* PHP
+* Django
+* REST APIs
+
+### Databases
+
+* MySQL
+* PostgreSQL
+* MongoDB
+* Redis
+* SQL
+
+### DevOps & Infrastructure
+
+* Docker
+* Git
+* GitHub
+* GitLab
+* AWS
+* Linux
+* Bash
+
+### Automation & Scripting
+
+* Python
+* PowerShell
+* Bash
+* CMD
+
+### Data & Business Intelligence
+
+* Python
+* Pandas
+* Matplotlib
+* Power BI
+* Excel
+* Metabase
+
+### Agile & Project Management
+
+* Scrum
+* Kanban
+* Jira
+* Trello
+* Confluence
+
+---
+
+## 🔬 Academic & Technology Interests
+
+My main areas of interest include:
+
+* Software Engineering
+* Software Architecture
+* Artificial Intelligence
+* Technology Education
+* Systems Development
+* Process Automation
+* Cloud Computing
+* Distributed Systems
+* Electronics
+* Physics and Astrophysics
+* Emerging Technologies
+
+---
+
+## 📖 Author & Knowledge Sharing
+
+### *Aprendendo Python* 🐍
+
+I am the author of ***Aprendendo Python***, a book created to introduce programming fundamentals in an accessible and practical way for people who are beginning their journey in software development.
+
+📚 **[Learn more about the book](link-to-your-book-or-website)**
+
+I also share content related to **software development, technology, education, and professional development**.
+
+---
+
+## 🌐 Contact & Projects
+
+* 🌐 **Website:** vidal.press
+* 📧 **Professional inquiries:** [hello@vidal.press](mailto:hello@vidal.press)
+* 🖥️ **My Setup:** vidal.press/meu-setup
+
+---
+
+## ✨ About My Work
+
+My career brings together three areas that I am passionate about: **technology, education, and continuous learning**.
+
+As a **Systems Analyst**, I work on analyzing problems and developing technological solutions. As a **Professor at ETEC Parque da Juventude**, I share knowledge and contribute to the education of future technology professionals.
+
+I aim to continue building bridges between **industry, academia, and technology**, developing solutions, sharing knowledge, and contributing to the growth of the technology community.
 
 
 <div align="center">
