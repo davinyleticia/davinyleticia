@@ -138,7 +138,7 @@ Meus principais interesses estão relacionados a:
 
 Sou autora do livro **Aprendendo Python**, desenvolvido com o objetivo de apresentar os fundamentos da programação de maneira acessível para quem está iniciando na área de tecnologia.
 
-📚 **[Conheça o livro](link-para-seu-livro-ou-site)**
+📚 **[leia o livro](https://aprendendo-python.vidal.press/)**
 
 Também compartilho conteúdos relacionados a **tecnologia, programação, educação e desenvolvimento profissional**.
 
@@ -313,7 +313,7 @@ My main areas of interest include:
 
 I am the author of ***Aprendendo Python***, a book created to introduce programming fundamentals in an accessible and practical way for people who are beginning their journey in software development.
 
-📚 **[Learn more about the book](link-to-your-book-or-website)**
+📚 **[Learn more about the book](https://aprendendo-python.vidal.press/)**
 
 I also share content related to **software development, technology, education, and professional development**.
 
