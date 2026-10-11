@@ -138,7 +138,7 @@ Meus principais interesses estão relacionados a:
 
 Sou autora do livro **Aprendendo Python**, desenvolvido com o objetivo de apresentar os fundamentos da programação de maneira acessível para quem está iniciando na área de tecnologia.
 
-📚 **[leia o livro](https://aprendendo-python.vidal.press/)**
+📚 **[leia o livro](https://vidal.press/_conteudo/aprendendo-python)**
 
 Também compartilho conteúdos relacionados a **tecnologia, programação, educação e desenvolvimento profissional**.
 
@@ -147,6 +147,7 @@ Também compartilho conteúdos relacionados a **tecnologia, programação, educa
 ## 🌐 Contato e Projetos
 
 * 🌐 **Site:** [vidal.press](https://vidal.press)
+* 💻 **Blog:** [tipsbook.com.br](https://tipsbook.com.br)
 * 📧 **Contato profissional:** [hello@vidal.press](mailto:hello@vidal.press)
 * 🖥️ **Meu Setup:** [vidal.press/meu-setup](https://vidal.press/meu-setup)
 
@@ -313,7 +314,7 @@ My main areas of interest include:
 
 I am the author of ***Aprendendo Python***, a book created to introduce programming fundamentals in an accessible and practical way for people who are beginning their journey in software development.
 
-📚 **[Learn more about the book](https://aprendendo-python.vidal.press/)**
+📚 **[Learn more about the book](https://vidal.press/_conteudo/aprendendo-pythonhttps://vidal.press/_conteudo/aprendendo-python)**
 
 I also share content related to **software development, technology, education, and professional development**.
 
@@ -321,7 +322,8 @@ I also share content related to **software development, technology, education, a
 
 ## 🌐 Contact & Projects
 
-* 🌐 **Website:** vidal.press
+* 🌐 **Site:** [vidal.press](https://vidal.press)
+* 💻 **Blog:** [tipsbook.com.br](https://tipsbook.com.br)
 * 📧 **Professional inquiries:** [hello@vidal.press](mailto:hello@vidal.press)
 * 🖥️ **My Setup:** vidal.press/meu-setup
 
