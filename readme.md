@@ -314,7 +314,7 @@ My main areas of interest include:
 
 I am the author of ***Aprendendo Python***, a book created to introduce programming fundamentals in an accessible and practical way for people who are beginning their journey in software development.
 
-📚 **[Learn more about the book](https://vidal.press/_conteudo/aprendendo-pythonhttps://vidal.press/_conteudo/aprendendo-python)**
+📚 **[Learn more about the book](https://vidal.press/_conteudo/aprendendo-python)**
 
 I also share content related to **software development, technology, education, and professional development**.
 
